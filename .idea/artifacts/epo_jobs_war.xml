@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="epo_jobs:war">
+    <output-path>$PROJECT_DIR$/epo_parent/epo_jobs/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>epo_jobs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="epo-jobs-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="epo_jobs:war exploded" />
+    </root>
+  </artifact>
+</component>

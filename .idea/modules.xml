@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/epo_parent/epo_backend/epo_backend.iml" filepath="$PROJECT_DIR$/epo_parent/epo_backend/epo_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epo_parent/epo_common/epo_common.iml" filepath="$PROJECT_DIR$/epo_parent/epo_common/epo_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epo_parent/epo_interface/epo_interface.iml" filepath="$PROJECT_DIR$/epo_parent/epo_interface/epo_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epo_parent/epo_jobs/epo_jobs.iml" filepath="$PROJECT_DIR$/epo_parent/epo_jobs/epo_jobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epo_parent/epo_mobile/epo_mobile.iml" filepath="$PROJECT_DIR$/epo_parent/epo_mobile/epo_mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epo_parent/epo_parent.iml" filepath="$PROJECT_DIR$/epo_parent/epo_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epo_parent/epo_service_provider/epo_service_provider.iml" filepath="$PROJECT_DIR$/epo_parent/epo_service_provider/epo_service_provider.iml" />
+    </modules>
+  </component>
+</project>

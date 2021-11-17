@@ -1,0 +1,8 @@
+com\yang\service\OrderSettingService.class
+com\yang\service\CheckGroupService.class
+com\yang\service\CheckItemService.class
+com\yang\service\OrderService.class
+com\yang\service\ReportService.class
+com\yang\service\SetmealService.class
+com\yang\service\UserService.class
+com\yang\service\MemberService.class

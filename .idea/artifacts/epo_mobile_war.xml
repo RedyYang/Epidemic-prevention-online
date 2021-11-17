@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="epo_mobile:war">
+    <output-path>$PROJECT_DIR$/epo_parent/epo_mobile/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>epo_mobile</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="epo_mobile-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="epo_mobile:war exploded" />
+    </root>
+  </artifact>
+</component>
